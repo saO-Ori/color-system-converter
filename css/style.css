@@ -70,8 +70,8 @@ header, footer {
   font-weight: bold;
   text-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
   text-align: center;
-  -webkit-text-stroke: 1px #fff;
-  text-stroke: 1px #fff;
+  -webkit-text-stroke: 1px #f9f9f9;
+  text-stroke: 1px #f9f9f9;
 }
 
 .copy {
