@@ -47,6 +47,6 @@ Hex、RGB、HSLの3種類の色表現を相互に変換し、入力や切り替�
 ---
 
 ## 作者情報
-- 名前: saori
+- 名前: sari
 - GitHub: [https://github.com/](https://sao-ori.github.io/color-system-converter/)
 - ご質問やご提案はお気軽にどうぞ！😊
